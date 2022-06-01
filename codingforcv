@@ -1,0 +1,146 @@
+<html> 
+<head> 
+<style> 
+p{  width:500px; 
+    word-wrap: break-word ; 
+}
+</style> 
+</head> 
+<body> 
+<header> 
+<h1> MY  CV/RESUME </h1> 
+</header> 
+<nav> 
+<ul> 
+<li><a href="#education"> nav-education </a></li> 
+<li><a href="#skills"> nav-skills </a></li> 
+</ul> 
+</nav> 
+<br> 
+<p> 
+ratul banerjee<br>
+DOB: 6 th May 1975<br>
+A-2 CLUSTER-I Sector-3 Salt Lake<br>
+Kolkata , West Bengal , 700097
+Mobile: 9830880419
+<br> 
+<a href="mailTo:ratulxx@h=gmail.com"> ratulxx@gmail.com</a></p> 
+<br><br> 
+<details> 
+<section id="objective"> 
+I am looking for job in IT sector , computer job / work from home opportunity and open
+to relocate</section> 
+<br><br> 
+<section id="skills"> 
+Microsoft Word ,PowerPoint, Access , Excel, programming languages : C(procedural
+programming ), C++ (OOPS), Java (object based language) , Web based language:
+HTML 5, javascript , xml (client side scripting languages) , server side scripting
+language : PHP , relational database , Mysql 5.0, IDE Eclipse , Seo , MVC , working
+knowledge of online dashboarding , wireframe model, data warehouse and business
+intelligence</section> 
+<br><br> 
+<section id="experience"> 
+Presently self employed . doing freelancing work options related to website development
+using front end web technologies html, javascript etc . has created html based website on
+solar photovoltaic technology re_http://sundreams802003.wixsite.com/solarpv</section> 
+<br><br> 
+<section id="education"> 
+<table width="60%" border="2"> 
+<thead> 
+<tr> 
+<th> university </th> 
+<th> degree obtained </th> 
+<th> year of passout </th> 
+<th> marks/grade </th> 
+</tr> 
+</thead> 
+<tbody> 
+<tr> 
+<td> SIKKIM MANIPAL     UNIVERSITY </td> 
+<td> MSCIT </td> 
+<td>2014 </td> 
+<td>73.4% </td> 
+</tr> 
+<tr> 
+<td> NIELIT </td> 
+<td> NIELIT A LEVEL </td> 
+<td> 2012 </td> 
+<td> 64 % </td> 
+</tr> 
+<tr> 
+<td> DOEACC </td> 
+<td> DOEACC O LEVEL </td> 
+<td> 2004 </td> 
+<td> B   GRADE </td> 
+</tr> 
+<tr> 
+<td> ST.XAVIER'S COLLEGE, UNIVERSITY OF CALCUTTA </td> 
+<td> BSC HONS PHYSICS </td> 
+<td> 2000 </td> 
+<td> 56.4 % </td> 
+</tr> 
+</tbody> 
+</table> 
+</section> 
+<br><br> 
+<section id="accomplishments"> 
+1._ Wheebox Employability Skills Test<br>
+2.-Verified Certificate of Achievement in Introduction to C++ a course of study offered by
+Microsoft , an online learning initiative of Microsoft Corporation through edX.<br>
+3.- verified certificate of Achievement in HTML5.1x: HTML5 Part 1: HTML5 Coding Essentials
+and Best Practices, a course of study offered by W3Cx, an online learning initiative of World
+Wide Web Consortium through edX.<br>
+4. verified certificate of achievement from Introduction to Programming with Java - Part 1:
+Starting to Code with JavaUC3Mx - IT.1.1x. a course of study offered by UC3Mx, an online
+learning initiative of Universidad Carlos III de Madrid through edX.<br>
+5. verified certificate of achievement from CS101.1x: Programming Basics, a course of study
+offered by IITBombayX, an online learning initiative of IIT Bombay through edX.<br>
+6. Record of Completion of the course : Introduction to Renewable Energy by Solar Energy
+International (Solar Training & Renewable Energy Education www.solarenergy.org)<br>
+7. verified certificate of achievement from ET3034x: Solar Energy
+a course of study offered by DelftX, an online learning initiative of Delft University ofTechnology through edX.<br>
+8.verified certificate of achievement from PV1 X : Solar Energy Engineering: Photovoltaic
+Energy Conversion a course of study offered by DelftX, an online learning initiative of Delft
+University of Technology through edX<br>
+9. Microsoft certification – Analyzing and Visualizing Data with Excel . online course via
+edx.org website<br>
+10. Microsoft certification ---- Managing Projects and Portfolios with Microsoft PPM , an online
+course via edx.org website<br>
+11.verified certificate of achievement in Agile Software Development , a course of study
+offered by ETHx, an online learning initiative of ETH Zurich through edX.<br>
+12. verified certificate of achievement in DAT229x: Microsoft Professional Orientation : Big
+Data a course of study offered by Microsoft, an online learning initiative of Microsoft
+Corporation through edX.<br>
+13. verified certificate of achievement from DEV276x: Learn to Program in Javaa course of
+study offered by Microsoft, an online learning initiative of Microsoft Corporation.<br>
+14. verified certificate of achievement in DAT276x: Principles of Machine Learning: R Editiona
+course of study offered by Microsoft, an online learning initiative of Microsoft Corporation.<br>
+15. verified certificate of achievement in SKILLS106x: Visual Presentationa course of study
+offered by RITx, an online learning initiative of Rochester Institute of Technology.<br>
+16. verified certificate of achievement in COMP102.2x: Introduction to Java Programming -
+Part 2a course of study offered by HKUSTx, an online learning initiative of The Hong Kong
+University of Science and Technology.<br>
+17. verified certificate of achievement in DART.IMT.C.01: C Programming: Getting Starteda
+course of study offered by Dartmouth_IMTx, an online learning initiative of Dartmouth & IMT.<br>
+8. verified certificate of achievement in DAT216x: Delivering a Relational Data Warehousea
+course of study offered by Microsoft, an online learning initiative of Microsoft Corporation.<br>
+19. verified certificate of achievement in DEV285x: Algorithms and Data Structuresa course of
+study offered by Microsoft, an online learning initiative of Microsoft Corporation.<br>
+20. verified certificate of achievement in MEPHI015x: Introduction to the Theory of
+Ferromagnetisma course of study offered by MEPhIx, an online learning initiative of MEPhI.<br><br>
+</section> 
+</details> 
+<br> 
+Personal InterestsI have created a website on solar PV based on html :
+<a href="https://sundreams802003.wixsite.com/solarpv" target="_blank"> https://sundreams802003.wixsite.com/solarv </a> 
+<br> 
+<u> linkedin page : </u> 
+<br> 
+<a href="https://www.linkedin.com/in/ratul-banerjee-851b9585/"> https://www.linkedin.com/in/ratul-banerjee-851b9585/</a> 
+<br> 
+<center> 
+ratul    banerjee <br> 
+1<sup>st</sup> june , 2022 </center> 
+</body> 
+</html> 
+
